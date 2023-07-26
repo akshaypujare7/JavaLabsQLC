@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Ex02_Objects/Ex02_Objects.iml" filepath="$PROJECT_DIR$/Ex02_Objects/Ex02_Objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ex03_Inheritance/Ex03_Inheritance.iml" filepath="$PROJECT_DIR$/Ex03_Inheritance/Ex03_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex04_Interfaces/Ex04_Interfaces.iml" filepath="$PROJECT_DIR$/Ex04_Interfaces/Ex04_Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/GreetFriend/GreetFriend.iml" filepath="$PROJECT_DIR$/GreetFriend/GreetFriend.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorldAgain/HelloWorldAgain.iml" filepath="$PROJECT_DIR$/HelloWorldAgain/HelloWorldAgain.iml" />
